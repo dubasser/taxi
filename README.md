@@ -11,5 +11,5 @@ Taxi calculator
 
 # Скриншот ы результатов работы
 
-![3](https://user-images.githubusercontent.com/90547503/136687651-efdb0924-8071-42b5-b036-f474e1634951.png)
-![5](https://user-images.githubusercontent.com/90547503/136687652-377f08ce-14aa-43d3-bdee-1c62c8d357a3.png)
+![image](https://user-images.githubusercontent.com/90547503/139579732-1031f1da-fd7a-43c7-a157-0f86fc34267b.png)
+![image](https://user-images.githubusercontent.com/90547503/139579775-f729fd86-147c-4279-a931-b890826de9e6.png)
